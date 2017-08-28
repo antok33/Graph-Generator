@@ -2,7 +2,7 @@ import sys
 import random
 
 
-#GRAPH GENERATOR
+#GRAPH
 
 class Graph(object):
 
