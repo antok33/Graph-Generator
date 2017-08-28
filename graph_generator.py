@@ -2,6 +2,8 @@ import sys
 import random
 
 
+#GRAPH GENERATOR
+
 class Graph(object):
 
     def __init__(self, num_of_nodes, p):
